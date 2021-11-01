@@ -63,3 +63,7 @@
   * Remover Aula
   * Editar Aula
   * Listar Aulas dentro do módulo
+
+### Credenciais do ADMIN
+* email: joestar@gmail.com
+* password: admin
