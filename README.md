@@ -6,14 +6,14 @@
   * [NodeJS](https://www.nodejs.org)
   
 ## Dependêcias utilizadas na aplicação
-  * Front-End
-    * Axios
-    * Typescript
-    * React-Router-Dom
-    * React-Icons
-    * Styled-Components
-    
-   * Back-End
+* Front-End
+   * Axios
+   * Typescript
+   * React-Router-Dom
+   * React-Icons
+   * Styled-Components
+  
+* Back-End
     * Bcrypt
     * Cors
     * Express
