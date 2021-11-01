@@ -1,5 +1,5 @@
 # Online_Course-React-Nodejs
-## O projeto é um curso online onde pode ser adicionado módulos e aulas, apenas adminstradores podem fazer isso.
+## O projeto é uma plataforma de cursos online onde pode ser adicionado módulos e aulas, apenas adminstradores podem fazer isso.
 
 ## Requisitos para rodar a aplicação
   * [Docker](https://www.docker.com/)
